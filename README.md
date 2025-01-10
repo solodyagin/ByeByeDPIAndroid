@@ -1,7 +1,9 @@
-# ByeByeDPI Android 
+# ByeByeDPI Android
+
+[![Android CI](https://github.com/solodyagin/ByeByeDPIAndroid/actions/workflows/android.yml/badge.svg?branch=master)](https://github.com/solodyagin/ByeByeDPIAndroid/actions/workflows/android.yml)
 
 <div style="text-align: center;">
-  <img alt="Логотип ByeDPI" src="https://github.com/romanvht/ByeDPIAndroid/raw/master/.github/images/logo.svg" width="100%" height="200px">
+  <img alt="Логотип ByeDPI" src="https://github.com/solodyagin/ByeByeDPIAndroid/raw/master/.github/images/logo.svg" width="100%" height="200px">
 </div>
 
 ---
@@ -25,8 +27,8 @@
 * Улучшена совместимость с Android TV/BOX, исправлены некоторые ошибки оригинала
 
 <div style="text-align: center;">
-    <img alt="Скриншот-1" src="https://github.com/romanvht/ByeDPIAndroid/raw/master/.github/images/settings_screen_2.png">
-    <img alt="Скриншот-2" src="https://github.com/romanvht/ByeDPIAndroid/raw/master/.github/images/apps_screen_2.png">
+    <img alt="Скриншот-1" src="https://github.com/solodyagin/ByeByeDPIAndroid/raw/master/.github/images/settings_screen_2.png">
+    <img alt="Скриншот-2" src="https://github.com/solodyagin/ByeByeDPIAndroid/raw/master/.github/images/apps_screen_2.png">
 </div>
 
 ### Использование
@@ -63,6 +65,6 @@
    ```
 2. Запустите скрипт сборки из корня репозитория:
    ```bash
-   ./gradlew assembleRelease`
+   ./gradlew assembleRelease
    ```
 3. APK будет лежать в `app/build/outputs/apk/release/`
