@@ -1,6 +1,6 @@
 # ByeByeDPI Android
 
-[![Android CI](https://github.com/solodyagin/ByeByeDPIAndroid/actions/workflows/android.yml/badge.svg?branch=master)](https://github.com/solodyagin/ByeByeDPIAndroid/actions/workflows/android.yml)
+[![Build](https://github.com/solodyagin/ByeByeDPIAndroid/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/solodyagin/ByeByeDPIAndroid/actions/workflows/build.yml)
 
 <div style="text-align: center;">
   <img alt="Логотип ByeDPI" src="https://github.com/solodyagin/ByeByeDPIAndroid/raw/master/.github/images/logo.svg" width="100%" height="200px">
